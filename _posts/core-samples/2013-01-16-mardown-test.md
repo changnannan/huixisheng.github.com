@@ -1,3 +1,12 @@
+---
+layout: post
+title : 	2012年度总结
+description : 2012年度总结
+category : summary
+tags : [summary, 2012]
+---
+{% include JB/setup %}
+
 # git markdown 语法测试
 ## git markdownh2
 ### git markdownh3
