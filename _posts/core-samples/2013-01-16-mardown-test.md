@@ -21,23 +21,26 @@ tags : [summary, 2012]
 ===============================
 _em_
 
-	<html></html>
+	<html</html>
+	body
+	clas{ font-size:12px;}
+
 >我是blockquote
 	
 *我是li
 *我是li
 
->*	我是li
+>*	
 >*	我是li
 
 >*我是li
 >*我是li
 
-> *1111
-> *2222
+> *我是li
+> *我是li
 
->	*我是blockquote后面li
->	*我是blockquote后面的li
+>*	我是blockquote后面li
+>*	我是blockquote后面的li
 ------------------
 * 我是li
 * 我是li
@@ -46,12 +49,32 @@ _em_
 2.我是ol后面li
 3.我是ol后面li
 4.我是ol后面li
+-----------------------
 
 1. 我是ol后面li
 2. 我是ol后面li
+-----------------------------------
+##ol##
+1. 我是ol后面li
+2. 我是ol后面li
+3. 我是ol后面li
+
+##blockquote ol##
 
 >1. 我是ol后面li
 >2. 我是ol后面li
+>3. 我是ol后面li
+
+==========================
+##blockquote tab ol##
+>1.	我是ol后面li
+>2.	我是ol后面li
+>3.	我是ol后面li
+
+## tab ol##
+1.	我是ol后面li
+2.	我是ol后面li
+3.	我是ol后面li
 
 ***
  
