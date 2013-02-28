@@ -11,9 +11,9 @@ tags : [兼容性, CSS, IE6]
 
 ###1、 个人中心首页小发布框点击弹出发布框，在ie6下导致下面的Tabs上移，就是出现错位，点击旁边的Tabs切换就正常
 
-Bug展现：
+问题回顾：
 ![IE下JS交互产生的定位重叠](http://huixisheng.github.com/images/article/ie6-jsclick-bug.jpg)
-此问题出现当时完全想不到是为何，难道js交互也会导致css出现问题？为何切换了却是正常的。这个问题困恼了我好久。后来在张鑫旭大牛的博客看到一文[利用重绘解决IE下JS交互产生的定位重叠等棘手bug](http://www.zhangxinxu.com/wordpress/2013/01/js-paint-ie6-relative-ie8-inline-block-bug-fix/),受了启发，终于改了这个bug。
+该问题出现当时完全想不到是为何，难道js交互也会导致css出现问题？为何切换了却是正常的。这个问题困恼了我好久。后来在张鑫旭大牛的博客看到一文[利用重绘解决IE下JS交互产生的定位重叠等棘手bug](http://www.zhangxinxu.com/wordpress/2013/01/js-paint-ie6-relative-ie8-inline-block-bug-fix/),受了启发，终于改了这个bug。
 
 ###2、 IE6 inline-block使line-height失效
 
@@ -22,7 +22,7 @@ Bug展现：
 
 ###3、 IE6 z-index失效
 
-Bug展现：
+问题回顾：
 ![IE6 z-index失效](http://huixisheng.github.com/images/article/ie67-z-index-disable.png)
 出现了好几次，印象最深的是做网站导航的统一的时候。消息的下拉框被设置了pr的下面的元素挡住了。解决办法和原因请参考[IE6下z-index犯癫不起作用bug的初步研究](http://www.zhangxinxu.com/wordpress/2009/12/ie6%E4%B8%8Bz-index%E7%8A%AF%E7%99%AB%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8bug%E7%9A%84%E5%88%9D%E6%AD%A5%E7%A0%94%E7%A9%B6/)
 
