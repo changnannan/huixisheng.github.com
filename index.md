@@ -1,6 +1,6 @@
 ---
 layout: page
-title: »ÚÏ§êÉÖ÷Ò³
+title: index
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
