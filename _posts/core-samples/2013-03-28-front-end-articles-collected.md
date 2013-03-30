@@ -9,6 +9,19 @@ tags : [前端, 精彩文章]
 
 有些文章看过还是需要回头细细品味的。本文收集并整理看过的精彩的文章和优秀的前端技术博客。
 
+#Web前端参考手册
+[w3chelp](http://w3help.org/ "w3chelp")W3help.org是由国内多家关注Web标准的公司、团体、标准组织，及科研单位等共同创立的Web标准推广网站。
+
+[CSS3参考手册](http://css.doyoe.com/)
+
+[caniuse](http://caniuse.com/#search=border) [browsersupport](http://www.browsersupport.net/)非常霸气，输入css属性可以查看该属性在各种浏览器下面的兼容性问题。
+
+[overapi](http://overapi.com/) 超全Cheat Sheet网站，涵盖几乎所有主流开发语言及框架API与常用命令，工程师必备。
+
+[Markdown 语法说明](http://wowubuntu.com/markdown/)
+
+[ECMAScript 5.1中文版](http://ecmascript.cn/)
+
 #优秀的前端技术博客
 [w3cplus](http://www.w3cplus.com/)
 
@@ -18,6 +31,8 @@ tags : [前端, 精彩文章]
 
 # CSS3系列
 [CSS3 UI 库](http://css3lib.alloyteam.com/)
+
+[CSS3 属性详解](http://www.w3cplus.com/resources/css3-tutorial-and-case)学习CSS3很好的资源。w3cplus是一个致力于推广国内前端行业的技术博客。它以探索为己任，不断活跃在行业技术最前沿，努力提供高质量前端技术博文；其文章范围广泛，主要以css3、html5、Javascript和各类demo为主。
  
 # 前端性能系列：
 [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.kuqin.com/web/20121209/333935.html)
