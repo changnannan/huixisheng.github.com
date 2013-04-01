@@ -9,7 +9,7 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 
 有些文章看过还是需要回头细细品味的。本文收集并整理看过的精彩的文章和优秀的前端技术博客。本文会一直持续更新，如果您有好的文章推荐，可以留言或者发邮件`huixishengATgmail.com`给我。谢谢
 
-#Web前端参考手册
+##Web前端参考手册
 [w3chelp](http://w3help.org/ "w3chelp")W3help.org是由国内多家关注Web标准的公司、团体、标准组织，及科研单位等共同创立的Web标准推广网站。
 
 [CSS3参考手册](http://css.doyoe.com/)
@@ -22,7 +22,8 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 
 [ECMAScript 5.1中文版](http://ecmascript.cn/)
 
-#优秀的前端技术博客
+
+##优秀的前端技术博客
 [w3cplus](http://www.w3cplus.com/)这是我经常去的一个Blog，感觉站长和其他维护改Blog的成员分享的技术和写的精彩文章，在这里我学到了很多，开拓了视野。在此感谢w3cplus。
 
 [张鑫旭BLOG](http://www.zhangxinxu.com/wordpress/)张爷，就这么称呼吧。虽然未识其庐山正面目。但是风趣的写作风格和精彩的文章，对知识的探索和执着，都给人留下了深刻的影响。
@@ -35,18 +36,22 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 
 [为之漫笔（李松峰）](http://www.cn-cuckoo.com/)为之漫笔（李松峰），本博客专注于Web前后端技术、移动平台开发技术、交互设计和技术翻译。js圣经-《JavaScript高级程序设计》译者。
 
-# CSS3系列
+
+## CSS3系列
 [CSS3 UI 库](http://css3lib.alloyteam.com/)
 
 [CSS3 属性详解](http://www.w3cplus.com/resources/css3-tutorial-and-case)学习CSS3很好的资源。w3cplus是一个致力于推广国内前端行业的技术博客。它以探索为己任，不断活跃在行业技术最前沿，努力提供高质量前端技术博文；其文章范围广泛，主要以css3、html5、Javascript和各类demo为主。
  
-# 前端网址导航
+
+## 前端网址导航
 [UED网址导航](http://uedfans.cn/)
 
 [web前端开发联盟](http://www.ux265.net/)
 
+[贤心-前端圈](http://sentsin.com/daohang/)
 
-# 前端框架系列
+
+## 前端框架系列
 [bootstrap](http://twitter.github.com/bootstrap/)大名鼎鼎!!!Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发,是一个CSS/HTML框架。
 
 [Bootstrap中文网](http://www.bootcss.com/)翻译bootsrap，当然不仅仅只是bootstrap，还有其他优秀的前端框架。
@@ -57,18 +62,20 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 
 [国内优秀Web前端Javascript框架库汇总列表(会长期更新)](http://www.alloyteam.com/2012/05/the-javascript-framework-list/)
 
-# 前端性能系列：
+
+## 前端性能系列：
 [浏览器的工作原理：新式网络浏览器幕后揭秘](http://www.kuqin.com/web/20121209/333935.html)
 
 [PNG的秘密—— 一淘前端分享会](http://www.iyunlu.com/view/Front-end/60.html)
  
 
-# 前端规范系列：
+## 前端规范系列：
 [Google Javascript编程规范](http://alloyteam.github.com/JX/doc/specification/google-javascript.xml)
 
 [揭秘wdl-微博交互规范的成长历程](http://udc.weibo.com/2012/02/%E6%8F%AD%E7%A7%98wdl-%E5%BE%AE%E5%8D%9A%E4%BA%A4%E4%BA%92%E8%A7%84%E8%8C%83%E7%9A%84%E6%88%90%E9%95%BF%E5%8E%86%E7%A8%8B/)
  
-# 前端兼容性系列：
+
+## 前端兼容性系列：
 [原创-IE6 PNG透明终极解决方案-打造W3Cfuns-IE6PNG最强帖](http://www.w3cfuns.com/thread-297-1-1.html)
 
 [inline-block 前世今生](http://www.iyunlu.com/view/css-xhtml/64.html)
@@ -79,7 +86,8 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 
 [CSS的盒子模型（Box Model）](http://www.cnblogs.com/wdq1103/archive/2010/06/12/1757321.html)
  
-# CSS系列：
+
+## CSS系列：
 [可用性更好的CSS隐藏文字技术(CSS图片替换文字)](http://www.iyunlu.com/view/css-xhtml/62.html)
 
 [css解决方案](http://www.w3cplus.com/solution/index/index.html)
@@ -95,6 +103,7 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 [JavaScript 秘密花园](http://bonsaiden.github.com/JavaScript-Garden/zh/)
  
 [JavaScript库 解构](http://www.cn-cuckoo.com/deconstructed/) 深入JavaScript库源代码，条分缕析，顿悟最优秀JavaScript库的核心机制
+ 
  
 # 不可错过的网站推荐系列：
 [腾讯2012年伦敦奥运会设计：前端项目回顾](http://2012.qq.com/2012_show.htm)
