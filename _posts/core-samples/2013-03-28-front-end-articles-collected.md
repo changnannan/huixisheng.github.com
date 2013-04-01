@@ -71,7 +71,7 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 
 [uxd123-前端设计导航](http://uxd123.com/)
 
-
+[设计师网站导航](http://hao.uisdc.com/goods/)优设网设计师网址导航为设计师提供ps教程、UI设计、素材下载、高清图库、配色方案、用户体验、网页设计等全方位设计师网站导航指引。每周更新及时，是优秀网页设计联盟（SDC）旗下最实用、最专业、最全面、最好用的设计师导航！
 
 ## 前端框架系列
 [bootstrap](http://twitter.github.com/bootstrap/)大名鼎鼎!!!Twitter推出的一个用于前端开发的开源工具包。它由Twitter的设计师Mark Otto和Jacob Thornton合作开发,是一个CSS/HTML框架。
