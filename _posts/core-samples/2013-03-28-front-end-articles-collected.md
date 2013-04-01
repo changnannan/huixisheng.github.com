@@ -2,12 +2,12 @@
 layout: post
 title : 	前端精彩文章收集(本文持续更新)
 description : 有些文章看过还是需要回头细细品味的。本文收集并整理看过的精彩的文章和优秀的前端技术博客。
-category : summary
-tags : [前端，JavaScript，bootsrap，CSS3，手册]
+category : Web前端
+tags : [优秀前端博客, JavaScript, bootsrap, CSS3, 手册, 导航, 前端性能]
 ---
 {% include JB/setup %}
 
-有些文章看过还是需要回头细细品味的。本文收集并整理看过的精彩的文章和优秀的前端技术博客。本文会一直持续更新，如果您有好的文章推荐，可以留言或者发邮件`huixishengATgmail.com`给我。谢谢
+有些文章看过还是需要回头细细品味的。本文收集并整理看过的精彩的文章和优秀的前端技术博客。本文会一直持续更新，如果您有好的文章推荐，可以留言或者发邮件`huixisheng[AT]gmail.com`给我。谢谢
 
 ##Web前端参考手册
 [w3chelp](http://w3help.org/ "w3chelp")W3help.org是由国内多家关注Web标准的公司、团体、标准组织，及科研单位等共同创立的Web标准推广网站。
