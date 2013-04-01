@@ -36,6 +36,7 @@ tags : [优秀前端博客, JavaScript, bootsrap, CSS3, 手册, 导航, 前端�
 
 [为之漫笔（李松峰）](http://www.cn-cuckoo.com/)为之漫笔（李松峰），本博客专注于Web前后端技术、移动平台开发技术、交互设计和技术翻译。js圣经-《JavaScript高级程序设计》译者。
 
+[鬼群作品秀](http://zp.zuixiami.com/)
 
 ## CSS3系列
 [CSS3 UI 库](http://css3lib.alloyteam.com/)
@@ -60,6 +61,8 @@ tags : [优秀前端博客, JavaScript, bootsrap, CSS3, 手册, 导航, 前端�
 [w3cfuns](http://www.w3cfuns.com/)是一个专注于web前端开发行业的综合性门户网站，以"互联网标准化"为目标，致力于推动前端开发在互联网的发展，通过众多专业的服 务形式，服务于中国互联网产业，以推动web标准在中国的发展。自创建以来吸引了众多web前端开发工程师的加盟，引领着中国互联网的标准化潮流。
 
 [传送之门](http://fp.labs.lugir.com/)这个网站应该还是在开发中。程序员专属于学习、休闲社区。收藏网页链接，轻松珍藏优秀资源,制作资源特辑，整理和分享精彩内容,发现兴趣爱好，生活远不只是编码
+
+[CNode：Node.js专业中文社区](http://cnodejs.org/)
 
 
 ## Web前端网址导航
