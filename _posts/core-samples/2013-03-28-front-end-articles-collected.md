@@ -43,12 +43,34 @@ tags : [前端，JavaScript，bootsrap，CSS3，手册]
 [CSS3 属性详解](http://www.w3cplus.com/resources/css3-tutorial-and-case)学习CSS3很好的资源。w3cplus是一个致力于推广国内前端行业的技术博客。它以探索为己任，不断活跃在行业技术最前沿，努力提供高质量前端技术博文；其文章范围广泛，主要以css3、html5、Javascript和各类demo为主。
  
 
-## 前端网址导航
+## Web前端问答
+### 项目中碰到了问题，改去哪，谷歌、度娘不行的话，不妨试试以下网址，或许你就可以找到解决问题的办法。
+
+[Ask.W3CPLUS社区！](http://ask.w3cplus.com/)Ask.W3cplus社区是由W3CPLUS全体成员创建，主要目的为前端爱好者提供一个交流平台，欢迎大家在此提问和回复！
+
+[stackoverflow](http://stackoverflow.com/)是全球IT界最受欢迎的技术问答网站（更为准确的说，stackoverflow Stack Overflow 现在只是 Stack Exchange network 的子站点而已）之一，目前，其每月不重复的访问用户超过1600万；每月网页浏览量（PV）增长了近6倍，达到9500万。
+
+[德问](http://www.dewen.org/)尊德性，道问学，以致知。德问，编程领域的社交问答。
+帮您解答各类编程问题，交流与扩展专业知识及技能。
+
+[知乎](http://www.zhihu.com/)知乎是一个真实的网络问答社区，社区氛围友好、理性、认真，连接了各行各业的精英。他们分享着彼此的专业知识、经验、见解，为中文互联网源源不断地提供高质量的信息。“在这里，发现更大的世界。”
+
+[segmentfault](http://segmentfault.com/)这是一个专业面向开发者的技术问答社区，你可以在这里提出任何与开发相关的问题，并得到同行的解答和评价。
+
+[w3cfuns](http://www.w3cfuns.com/)是一个专注于web前端开发行业的综合性门户网站，以"互联网标准化"为目标，致力于推动前端开发在互联网的发展，通过众多专业的服 务形式，服务于中国互联网产业，以推动web标准在中国的发展。自创建以来吸引了众多web前端开发工程师的加盟，引领着中国互联网的标准化潮流。
+
+[传送之门](http://fp.labs.lugir.com/)这个网站应该还是在开发中。程序员专属于学习、休闲社区。收藏网页链接，轻松珍藏优秀资源,制作资源特辑，整理和分享精彩内容,发现兴趣爱好，生活远不只是编码
+
+
+## Web前端网址导航
 [UED网址导航](http://uedfans.cn/)
 
 [web前端开发联盟](http://www.ux265.net/)
 
 [贤心-前端圈](http://sentsin.com/daohang/)
+
+[uxd123-前端设计导航](http://uxd123.com/)
+
 
 
 ## 前端框架系列
