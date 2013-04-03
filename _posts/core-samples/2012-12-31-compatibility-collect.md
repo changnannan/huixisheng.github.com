@@ -28,7 +28,7 @@ tags : [兼容性, CSS, IE6]
 
 ![IE6 z-index失效](http://huixisheng.github.com/images/article/ie67-z-index-disable.png)
 
-出现了好几次，印象最深的是做网站导航的统一的时候。消息的下拉框被设置了pr的下面的元素挡住了。解决办法和原因请参考[IE6下z-index犯癫不起作用bug的初步研究](http://www.zhangxinxu.com/wordpress/2009/12/ie6%E4%B8%8Bz-index%E7%8A%AF%E7%99%AB%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8bug%E7%9A%84%E5%88%9D%E6%AD%A5%E7%A0%94%E7%A9%B6/)
+出现了好几次，印象最深的是做网站导航的统一的时候。消息的下拉框被设置了pr的下面的元素挡住了。解决办法：在你需要显示在上层的元素的含“position:relative”的父元素上添加“z-index”属性。具体参考[IE6下z-index犯癫不起作用bug的初步研究](http://www.zhangxinxu.com/wordpress/2009/12/ie6%E4%B8%8Bz-index%E7%8A%AF%E7%99%AB%E4%B8%8D%E8%B5%B7%E4%BD%9C%E7%94%A8bug%E7%9A%84%E5%88%9D%E6%AD%A5%E7%A0%94%E7%A9%B6/)
 
 ###4、 IE6下弹出框被Select穿透
 
@@ -37,5 +37,16 @@ tags : [兼容性, CSS, IE6]
 ###5、 IE6不支持最大高度最小高度最大宽度最小宽度
 
 解决办法：1、CSS表达式 2、js控制
+
+###6、IE6下背景图片不缓存问题，背景图片会闪烁
+	<!--[if IE 6]>
+	<script>
+		document.execCommand("BackgroundImageCache",false,true);	
+	</script>
+	<![endif]-->
+
+
+
+
 
 ##继续更新中

@@ -3,11 +3,7 @@ layout: post
 title : 	前端精彩文章收集(本文持续更新)
 description : 有些文章看过还是需要回头细细品味的。本文收集并整理看过的精彩的文章和优秀的前端技术博客。
 category : Web前端
-<<<<<<< HEAD
-tags : [优秀前端博客, JavaScript, bootsrap, CSS3, 手册, 导航, 前端性能]
-=======
 tags : [优秀前端博客, JavaScript, bootsrap, CSS3, 手册, 导航, 前端性能, 资源]
->>>>>>> origin/gh-pages
 ---
 {% include JB/setup %}
 

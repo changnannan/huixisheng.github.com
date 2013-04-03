@@ -31,6 +31,23 @@ white-space:nowrap; 强制不换行，都起作用
 white-space:pre-wrap; 只对中文起作用，强制换行	
 项目中用来打散成串的因为
 
+###jQuery ajaxFileUpload.js 插件 ie9 下bug
+    if(window.ActiveXObject) {
+        if(jQuery.browser.version=="9.0"){
+            var io = document.createElement('iframe');
+            io.id = frameId;
+            io.name = frameId;
+        }else if(jQuery.browser.version=="6.0" || jQuery.browser.version=="7.0" || 
+        		jQuery.browser.version=="8.0"){
+             var io = document.createElement('<iframe id="' + frameId + '" name="' + frameId + '" />');
+             if(typeof uri== 'boolean'){
+                 io.src = 'javascript:false';
+             }
+             else if(typeof uri== 'string'){
+                 io.src = uri;
+             }
+        }
+    }
 
 todo.. 整理
 

@@ -2,11 +2,7 @@
 layout: post
 title : 	JavaScript正则表达式总结
 description : 本人学习过程中对JavaScript正则表达式总结
-<<<<<<< HEAD
-category : js正则
-=======
 category : JavaScript
->>>>>>> origin/gh-pages
 tags : [JavaScript, 正则]
 ---
 {% include JB/setup %}
@@ -20,8 +16,10 @@ todo..
 
 ### 参考网址
 [司徒正美-JavaScript正则表达式](http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html)
+
 [正则表达式30分钟入门教程](http://deerchao.net/tutorials/regex/regex.htm)
 
+[精通 JS正则表达式](http://www.iteye.com/topic/481228)
 
 
 
