@@ -9,9 +9,9 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 悔惜晟-Web前端
+title : Web前端
 tagline: 前端开发，JavaSscript，HTML，CSS，Ajax，Seajs Nodejs
-author :
+author : 悔惜晟
   name : 悔惜晟
   email : huixisheng@gmail.com
   github : huixisheng
