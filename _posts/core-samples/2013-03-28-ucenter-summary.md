@@ -2,8 +2,8 @@
 layout: post
 title : 个人中心项目总结
 description : 这是进公司接手的第一个项目。项目中各种心酸。在此留个纪念，聊表心情。也算是自己对项目的回顾。希望接下来做项目时踩过的坑可以不会再踩。
-category : summary
-tags : [总结]
+category : 项目总结
+tags : [项目总结]
 ---
 {% include JB/setup %}
 
