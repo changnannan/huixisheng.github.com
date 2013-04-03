@@ -2,7 +2,7 @@
 layout: post
 title : 	JavaScript正则表达式总结
 description : 本人学习过程中对JavaScript正则表达式总结
-category : js正则
+category : JavaScript
 tags : [JavaScript, 正则]
 ---
 {% include JB/setup %}
