@@ -49,6 +49,11 @@ white-space:pre-wrap; 只对中文起作用，强制换行
         }
     }
 
+### textarea用jQ的html方法取不到值
+使用val();但是百度之后又发现另一个问题，只是我在项目还没有碰到。[JQuery TextArea的取值与赋值问题](http://www.cnblogs.com/long_/archive/2010/07/28/1787124.html)
+
+
+
 todo.. 整理
 
 ### 参考网址
