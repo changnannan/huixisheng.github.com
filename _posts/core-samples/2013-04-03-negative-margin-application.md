@@ -9,7 +9,7 @@ tags : [CSS, margin]
 
 初中的时候开始学习坐标轴，开始接触负数。不管怎么说数学中都要学习的负数，总是有积极意义的吧。谁都不想银行卡的钱是负数的，但是css中如果使用负数可以解决一些比较棘手的问题的。本文参考网络结合自身的项目对margin的负值做一个小小的总结。具体如下图：
 
-![负边距在项目中的应用](http://huixisheng.github.com/images/article/negative-margin.jpg)
+![负边距在项目中的应用](http://huixisheng.github.com/images/article/negative-margin.png)
 
 ###1、定宽定高的block元素垂直居中
 
@@ -25,7 +25,7 @@ tags : [CSS, margin]
 ###参考链接
 [margin负值的应用](http://www.gezii.me/?p=57)
 
-[margin负值 – 一个秘密武器](http://fp.labs.lugir.com/node/159)
+[margin负值 – 一个秘密武器](http://iyunlu.com/view/CSS-XHTMl/52.html)
 
 [我知道你不知道的负Margin](http://www.hicss.net/i-know-you-do-not-know-the-negative-margin/)
 
